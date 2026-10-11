@@ -1,0 +1,21 @@
+page_size
+---------
+4096     
+page_count
+----------
+41        
+freelist_count
+--------------
+0             
+encoding
+--------
+UTF-8   
+integrity_check
+---------------
+ok             
+key                         value            
+--------------------------  -----------------
+mmap_status                 -1               
+last_compatible_version     16               
+version                     53               
+early_expiration_threshold  13287337139605076

@@ -1,0 +1,12 @@
+cid  name                       type         notnull  dflt_value  pk
+---  -------------------------  -----------  -------  ----------  --
+0    visit_id                   INTEGER      0                    1 
+1    visibility_score           NUMERIC      0                    0 
+2    floc_protected_score       NUMERIC      0                    0 
+3    categories                 VARCHAR      0                    0 
+4    page_topics_model_version  INTEGER      0                    0 
+5    annotation_flags           INTEGER      1                    0 
+6    entities                   VARCHAR      0                    0 
+7    related_searches           VARCHAR      0                    0 
+8    search_normalized_url      VARCHAR      0                    0 
+9    search_terms               LONGVARCHAR  0                    0 

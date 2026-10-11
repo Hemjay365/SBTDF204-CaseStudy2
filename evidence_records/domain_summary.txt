@@ -1,0 +1,15 @@
+host                      urls  total_visits
+------------------------  ----  ------------
+mail.google.com           11    16          
+www.google.com            8     12          
+www.kraken.com            9     10          
+post.craigslist.org       9     10          
+accounts.google.com       7     8           
+www.blockchain.com        4     6           
+baltimore.craigslist.org  2     3           
+accounts.craigslist.org   2     3           
+www.craigslist.org        1     2           
+mempool.space             1     1           
+imgur.com                 1     1           
+geo.craigslist.org        1     1           
+accounts.youtube.com      1     1           

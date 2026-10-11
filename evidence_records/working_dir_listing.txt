@@ -1,0 +1,4 @@
+total 200
+drwxrwxr-x 2 kali kali   4096 Oct 10 02:07 .
+drwxrwxr-x 8 kali kali   4096 Oct 10 02:05 ..
+-r-xr-xr-x 1 kali kali 196608 Oct 10 01:54 History

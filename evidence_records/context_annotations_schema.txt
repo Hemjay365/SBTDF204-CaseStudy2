@@ -1,0 +1,7 @@
+cid  name                       type     notnull  dflt_value  pk
+---  -------------------------  -------  -------  ----------  --
+0    visit_id                   INTEGER  0                    1 
+1    context_annotation_flags   INTEGER  1                    0 
+2    duration_since_last_visit  INTEGER  0                    0 
+3    page_end_reason            INTEGER  0                    0 
+4    total_foreground_duration  INTEGER  0                    0 

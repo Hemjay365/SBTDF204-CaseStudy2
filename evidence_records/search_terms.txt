@@ -1,0 +1,6 @@
+url_id  term                 url                                                                                                                                                                                            
+------  -------------------  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1       craigslist           https://www.google.com/search?q=craigslist&rlz=1C1ONGR_enUS989US989&oq=craigslist&aqs=chrome..69i57j46i131i199i433i465i512j0i402l2j0i512l3j0i131i433l2j0i512.2595j0j15&sourceid=chrome&ie=UTF-8
+17      gmail                https://www.google.com/search?q=gmail&rlz=1C1ONGR_enUS989US989&oq=gmail&aqs=chrome..69i57j0i433i512l6j0i131i433i512j0i433i512.1553j0j4&sourceid=chrome&ie=UTF-8                                
+40      blockchain explorer  https://www.google.com/search?q=blockchain+explorer&rlz=1C1ONGR_enUS989US989&oq=blockchain+explorer&aqs=chrome..69i57j35i39j0i512l8.3445j0j7&sourceid=chrome&ie=UTF-8                          
+45      kraken               https://www.google.com/search?q=kraken&rlz=1C1ONGR_enUS989US989&oq=kraken&aqs=chrome..69i57j46i67i433j0i67j0i67i433j0i67j0i67i433j0i67j0i131i433i512j0i512l2.2504j0j7&sourceid=chrome&ie=UTF-8 
